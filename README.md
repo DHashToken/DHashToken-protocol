@@ -7,7 +7,7 @@ While DHashToken 0.9 is available as-is for anyone to use, we caution that this 
 Watch demo video of milestone 1 (will take you to [https://youtu.be/5q_Y89gGs3Q](https://youtu.be/5q_Y89gGs3Q))
 
 [![Milestone 1 demo video](https://www.youtube.com/upload_thumbnail?v=5q_Y89gGs3Q&t=hqdefault&ts=1511793718620)](https://youtu.be/5q_Y89gGs3Q)
-
+https://www.youtube.com/watch?v=5q_Y89gGs3Q
 ## About Simple Token
 
 Simple Token [“ST”] is an EIP20 token and DHashToken is a protocol to support token economies in mainstream consumer applications. The business and technical challenge we set out to solve is to enable mainstream consumer applications to benefit from deploying their own branded crypto-backed token economies, in a scalable and cryptographically auditable manner, without needing to mint and maintain their own publicly-tradeable EIP20 tokens.
